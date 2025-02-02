@@ -1,0 +1,6 @@
+numpy
+plotly
+babel
+termcolor
+tabulate
+pytest
