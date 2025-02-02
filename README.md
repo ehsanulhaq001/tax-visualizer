@@ -3,6 +3,7 @@
 A Python tool to calculate and visualize different tax slabs using Plotly. This project can compute raw tax amounts and tax percentages, then create an interactive chart for comparison. You can also calculate the tax for a specific income.
 
 ## Features
+
 - Compare raw tax vs. tax percentage for multiple slab configurations
 - Command-line interface with optional theme selection (`--theme=white` or `--theme=dark`)
 - Command-line interface with optional limit selection (`--limi=2500000`)
